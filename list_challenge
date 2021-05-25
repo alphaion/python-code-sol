@@ -1,0 +1,8 @@
+limit = int(input('Enter limit: '))
+show_limit = list(range(1,limit+1))
+print('set A:',show_limit)
+position = int(input('Enter Position: '))
+new_number = int(input('Enter number: '))
+for i in range(1,limit,position+1):
+    print(i)
+    

@@ -1,0 +1,4 @@
+import random
+x = ['R','S','T']
+y = random.randint(0,len(x)-1)
+print(x[y])
