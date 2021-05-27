@@ -1,3 +1,5 @@
+# Call of duty, choosing mvp (most valuable player) by kill points.\
+
 import random
 p1 = 0
 p2 = 0
